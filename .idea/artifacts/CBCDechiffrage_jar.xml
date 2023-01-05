@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CBCDechiffrage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CBCDechiffrage_jar</output-path>
+    <root id="archive" name="CBCDechiffrage.jar">
+      <element id="module-output" name="CBCDechiffrage" />
+    </root>
+  </artifact>
+</component>
